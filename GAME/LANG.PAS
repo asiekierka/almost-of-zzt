@@ -462,7 +462,7 @@ begin with U,Objs [N] do begin
       LGetWord (N,Ofs);
       FlagEval := not FlagEval (N,Ofs);
       end
-   else if LWord = 'ALLIGNED' then
+   else if LWord = 'ALIGNED' then
       FlagEval := (X=Objs[0].x) or (Y=Objs[0].y)
    else if LWord = 'CONTACT' then
       FlagEval := (sqr (X-Objs[0].x)+sqr (Y-Objs[0].y))=1
