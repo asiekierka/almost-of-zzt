@@ -25,8 +25,16 @@ Please treat this repository as a historical record, or as close to one as I can
 **If you're looking for a version of ZZT's source code which is complete, based on the latest version of ZZT, ready to compile, clear of copyright worries, and recommended to use for development,
 I recommend the [Reconstruction of ZZT](https://github.com/asiekierka/reconstruction-of-zzt) instead.**
 
+Also check out the [Museum of ZZT](https://museumofzzt.com/):
+
+* [A short summary of what we've been up to throughout the 2010s](https://museumofzzt.com/article/view/494/we-are-still-out-here/)
+* [A longer summary of the 2010s](https://museumofzzt.com/article/view/459/the-2010s-of-zzt/)
+* [Some modern game recommendations](https://museumofzzt.com/article/view/563/the-best-of-zzt-part-2-modern-treasures/)
+* We have a Discord server, too~
+
 ## License
 
 As with the Reconstruction of ZZT, I have received Epic's permission to release this code under the MIT license.
 
 Special thanks to Tim Sweeney for supporting the ZZT community's endeavours throughout the years.
+
