@@ -1803,6 +1803,7 @@ begin
             if length (S) = 0 then
                dec (Col)
             else if S<>'@' then
+{ REMOVED - Suspected third-party copyright. }
                fastwrite (0,Y,Col,S)
             else
                Flag := false;
